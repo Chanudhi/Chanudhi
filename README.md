@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanudhi Aluthge</h1>
 <h3 align="center">Tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanudhi&label=Profile%20views&color=0e75b6&style=flat" alt="chanudhi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chanudhi&label=Profile%20views&color=0e75b6&style=flat" alt="chanudhi" /> </p>
 
 - 🔭 I’m currently working on **SpaceK**
 
