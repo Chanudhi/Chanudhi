@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN,Python,ML**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN and Python**
 
 - 📫 How to reach me **chanudhialuthge@gmail.com**
 
