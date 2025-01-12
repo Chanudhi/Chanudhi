@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanudhi&show_icons=true&locale=en" alt="chanudhi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanudhi&" alt="chanudhi" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chanudhi" alt="GitHub Streak" /></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octact&" alt="chanudhi" /></p>
