@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chanudhi Aluthge</h1>
-<h3 align="center">Tech enthusiast</h3>
+<h3 align="center">A Tech Enthusiast Who Loves to Build Cool Stuff!</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Passionate+Developer+%F0%9F%92%BB;React+%7C+Flutter+%7C+Node+Lover+%F0%9F%A7%AC;Problem+Solver+%E2%9C%94%EF%B8%8F+Always+Learning" alt="Typing SVG" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanudhi&label=Profile%20views&color=0e75b6&style=flat" alt="chanudhi" /> </p>
 
-- 🔭 I’m currently working on **CarZone Lanka Website**
-
-  
-- 🌱 I’m currently learning **React**
-
-
-- 📫 How to reach me **chanudhialuthge@gmail.com**
-
+- 🔭 I’m currently working on **CarZone Lanka Website**  
+- 🌱 I’m currently learning **React**  
+- 📫 How to reach me **chanudhialuthge@gmail.com**  
 - 🧠 Fun Fact: **I believe in teaching machines to think—because why should humans have all the fun?**
 
 <h3 align="left">Connect with me:</h3>
